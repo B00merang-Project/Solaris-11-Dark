@@ -1,7 +1,10 @@
-# Solaris-11-Dark
-GTK theme based on the appearance of Solaris 11's 'Nimbus Dark' theme
+[![built-with-azurra-framework](https://github.com/Elbullazul/Azurra_framework/raw/assets/azurra_framework_smaller.png)](https://github.com/Elbullazul/Azurra_framework)
 
-![solaris-11-nimbus-dark](https://github.com/B00merang-Project/gallery/raw/master/Solaris%2011%20Nimbus%20Dark.png)
+# Solaris 11 'Nimbus Dark'
+
+GTK theme based on the appearance of Solaris 11's **Nimbus Dark** theme
+
+![solaris-11-dark](https://github.com/B00merang-Project/gallery/raw/master/Solaris%2011%20Nimbus%20Dark.png)
 
 **Maintainer :** [Elbullazul](https://github.com/Elbullazul)
 
